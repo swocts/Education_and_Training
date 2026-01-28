@@ -17,6 +17,13 @@ As businesses, institutions, and governments adapt to a fast-paced global market
 
 https://skillsbuild.org/adult-learners/explore-learning/cybersecurity-analyst
 
+## Cato Networks
+
+Apply now to the SASE Expert, Level 1 course – the only way to achieve your SASE Certification. The only course that will get you SASE Certified. Apply now to make your SASE expertise known
+
+https://www.catonetworks.com/resources/
+https://www.catonetworks.com/sase/sase-certification/sase-expert-level-1/
+
 ## Splunk
 
 https://www.splunk.com/en_us/training/course-catalog.html?sort=Newest&filters=filterGroup1FreeCourses
