@@ -13,7 +13,9 @@ https://training.linuxfoundation.org/resources/?_sft_topic_area=cybersecurity&_s
 
 ## IBM
 
+As businesses, institutions, and governments adapt to a fast-paced global market, threat actors are adopting new tactics to infiltrate organizations. On this learning path, gain core skills for threat intelligence, including network security, incident response, and cybersecurity tools.
 
+https://skillsbuild.org/adult-learners/explore-learning/cybersecurity-analyst
 
 ## Splunk
 
