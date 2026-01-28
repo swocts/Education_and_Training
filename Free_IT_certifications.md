@@ -24,6 +24,15 @@ Apply now to the SASE Expert, Level 1 course – the only way to achieve your SA
 https://www.catonetworks.com/resources/
 https://www.catonetworks.com/sase/sase-certification/sase-expert-level-1/
 
+## Cisco
+
+Free online courses. In-person learning. Certification-aligned pathways in topics like Cybersecurity, Networking, and Python.
+
+It’s all here. Are you ready to begin, change, or propel your career?
+
+https://www.netacad.com/
+https://www.netacad.com/catalogs/learn
+
 ## Splunk
 
 https://www.splunk.com/en_us/training/course-catalog.html?sort=Newest&filters=filterGroup1FreeCourses
