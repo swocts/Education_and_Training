@@ -45,8 +45,3 @@ As part of our commitment to building a more robust, resilient and diverse cyber
 
 https://www.isc2.org/landing/1mcc
 
-## ECcounci
-
-
-
-https://www.eccouncil.org/cybersecurity-exchange/cyber-novice/free-cybersecurity-courses-beginners/
