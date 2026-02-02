@@ -42,5 +42,3 @@ https://www.splunk.com/en_us/training/course-catalog.html?sort=Newest&filters=fi
 canadian Cybersecurity training
 
 https://www.cyber.gc.ca/en/education-community/cyber-skills-development
-
-https://www.cyber.gc.ca/en/education-community/cyber-skills-development
