@@ -45,3 +45,7 @@ As part of our commitment to building a more robust, resilient and diverse cyber
 
 https://www.isc2.org/landing/1mcc
 
+## Palo alto
+
+https://www.paloaltonetworks.ca/cyberpedia/free-cybersecurity-education-courses
+
