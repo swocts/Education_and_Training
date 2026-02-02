@@ -37,4 +37,16 @@ https://www.netacad.com/catalogs/learn
 
 https://www.splunk.com/en_us/training/course-catalog.html?sort=Newest&filters=filterGroup1FreeCourses
 
+## ISC2
 
+See yourself in cybersecurity. You don’t need experience — just the passion and drive to enter a demanding and rewarding field, one that opens limitless opportunities worldwide.
+
+As part of our commitment to building a more robust, resilient and diverse cybersecurity workforce, ISC2 is offering FREE Certified in Cybersecurity (CC) Online Self-Paced Training and exams to one million people.
+
+https://www.isc2.org/landing/1mcc
+
+## ECcounci
+
+
+
+https://www.eccouncil.org/cybersecurity-exchange/cyber-novice/free-cybersecurity-courses-beginners/
