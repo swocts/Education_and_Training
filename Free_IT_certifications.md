@@ -37,8 +37,4 @@ https://www.netacad.com/catalogs/learn
 
 https://www.splunk.com/en_us/training/course-catalog.html?sort=Newest&filters=filterGroup1FreeCourses
 
-## Cyber skills development Canada
 
-canadian Cybersecurity training
-
-https://www.cyber.gc.ca/en/education-community/cyber-skills-development
