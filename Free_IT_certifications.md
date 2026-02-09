@@ -49,3 +49,16 @@ https://www.isc2.org/landing/1mcc
 
 https://www.paloaltonetworks.ca/cyberpedia/free-cybersecurity-education-courses
 
+## EC-Council
+
+
+The Growing Demand for Cybersecurity Talent: Why Now is the Perfect Time to Dive In 
+
+The demand for cybersecurity professionals is increasing, and it’s not just a trend. As cyberattacks continue to evolve, both private organizations and governments are scrambling to protect sensitive data. The good news? You can take advantage of this growing need by learning the critical skills online to thrive in the cybersecurity industry.
+
+Online courses and training programs offer an affordable way to learn information security basics and advanced concepts. Despite the increasing demand, many positions remain unfilled due to a shortage of qualified professionals. In fact, 82% of employers report difficulty finding talent to fill these roles.
+
+This means there’s a significant opportunity for you to enter the field now, equip yourself with the right skills, and land a career in one of the most in-demand industries today. Get started with these Free Online Cyber Security Courses . The cybersecurity industry is waiting — are you ready to join?
+24 FREE Cyber Security Courses 
+
+https://www.eccouncil.org/cybersecurity-exchange/cyber-novice/free-cybersecurity-courses-beginners/
