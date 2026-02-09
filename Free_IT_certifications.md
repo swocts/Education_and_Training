@@ -62,3 +62,9 @@ This means there’s a significant opportunity for you to enter the field now, e
 24 FREE Cyber Security Courses 
 
 https://www.eccouncil.org/cybersecurity-exchange/cyber-novice/free-cybersecurity-courses-beginners/
+
+## Snowflake
+
+Choose your preferred learning method with Snowflake! Our course catalog offers a variety of options to suit your preferences, including on-demand training and instructor-led courses.
+
+https://learn.snowflake.com/en/courses/
