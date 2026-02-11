@@ -8,3 +8,7 @@ https://www.cyber.gc.ca/en/education-community/academic-outreach-engagement/post
 Courses
 
 https://lh-ca.cyber.gc.ca/course/index.php?categoryid=16
+
+Black Hills InfoSec - Free Training and Tools
+
+https://www.activecountermeasures.com/
