@@ -68,3 +68,9 @@ https://www.eccouncil.org/cybersecurity-exchange/cyber-novice/free-cybersecurity
 Choose your preferred learning method with Snowflake! Our course catalog offers a variety of options to suit your preferences, including on-demand training and instructor-led courses.
 
 https://learn.snowflake.com/en/courses/
+
+## dfirdiva
+
+Digital forensics Incidence response
+
+https://training.dfirdiva.com/
